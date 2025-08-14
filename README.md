@@ -1,40 +1,15 @@
-# Hi there, I'm Joe 👋
+# About Me
 
-🎓 **4th-year Computer Engineering Student** | 💻 **Backend Development Enthusiast** | 🌐 **Computer Networking Learner**  
+I'm a 4th-year **Computer Engineering** student with a keen interest in **backend development**—currently learning **Django**—and a passion for **computer networking**. While I don't have major projects to brag about (yet!), I'm always working on improving my skills, especially by customizing (ricing) my **Neovim** and **PowerShell** terminal.
 
-I’m passionate about **building backend systems** and exploring the inner workings of **computer networks**. Right now, I’m deep-diving into **Django** while also customizing my developer environment — from ricing **Neovim** to optimizing my **PowerShell terminal**.  
+I also run a **[YouTube channel](https://www.youtube.com/@JoeCillo-zr8jn)** where I share my tech journey and experiments.
 
----
-
-## 🚀 What I’m Currently Working On
-- Learning **Django** and improving backend development skills  
-- Studying *Computer Networking: A Top-Down Approach* (Jim Kurose) 📚  
-- Preparing to release small backend projects on GitHub  
-- Experimenting with **Linux customization** (Arch + Hyprland soon!)  
+> "You cannot teach a man anything, you can only help him find it within himself."
 
 ---
 
-## 🛠 Tech & Tools
-- **Languages:** Python, JavaScript, SQL  
-- **Frameworks:** Django, Flask  
-- **Tools & Workflow:** Git, Neovim, PowerShell, Linux  
-- **Other Interests:** Linux ricing, socket programming, terminal productivity  
+## 📊 GitHub Stats
+![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joe-cillo&show_icons=true&theme=radical)
 
----
-
-## 🎯 Goals for 2025
-- ✅ Build and deploy a Django-based project with authentication  
-- 📡 Develop a small networking-related project using sockets  
-- 📹 Grow my [**YouTube Channel – JoeCillo**](https://youtube.com/...) where I share my coding journey  
-
----
-
-## 💬 A Quote I Live By
-> “You cannot teach a man anything, you can only help him find it within himself.” – Galileo Galilei  
-
----
-
-## 📫 Connect With Me
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://youtube.com/...)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/joe-cillo)  
-
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-cillo&layout=compact&theme=radical)
