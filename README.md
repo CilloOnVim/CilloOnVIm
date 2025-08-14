@@ -9,7 +9,7 @@ I also run a **[YouTube channel](https://www.youtube.com/@JoeCillo-zr8jn)** wher
 ---
 
 ## 📊 GitHub Stats
-![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joe-cillo&show_icons=true&theme=radical)
+![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=CilloOnVim&show_icons=true&theme=radical)
 
 ## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-cillo&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CilloOnVim&layout=compact&theme=radical)
